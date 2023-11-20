@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flipcardgame/static/css/main.9926caa8.css",
+    "main.js": "/flipcardgame/static/js/main.01f77d40.js",
+    "static/js/787.075134c2.chunk.js": "/flipcardgame/static/js/787.075134c2.chunk.js",
+    "index.html": "/flipcardgame/index.html",
+    "main.9926caa8.css.map": "/flipcardgame/static/css/main.9926caa8.css.map",
+    "main.01f77d40.js.map": "/flipcardgame/static/js/main.01f77d40.js.map",
+    "787.075134c2.chunk.js.map": "/flipcardgame/static/js/787.075134c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9926caa8.css",
+    "static/js/main.01f77d40.js"
+  ]
+}
